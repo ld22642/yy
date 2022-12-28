@@ -22,7 +22,7 @@
       </el-collapse-item>
       <el-collapse-item title="实现一个0.5px的线" name="2">
         <div>
-          <div class="warning">.test是.left和.right的父元素</div>
+          <div class="warning">.test是.left和.right的父元素盒子</div>
           .test {<br />
           height: 15px;<br />
           background: #000;<br />
