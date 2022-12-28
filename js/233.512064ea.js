@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkdemo_vue2"]=self["webpackChunkdemo_vue2"]||[]).push([[233],{2233:function(u,e,n){n.r(e),n.d(e,{default:function(){return v}});var r=function(){var u=this,e=u._self._c;return e("div",[e("h1",[u._v("你找的页面不存在")]),e("h1",[u._v("No Found!")]),e("div",{on:{click:function(e){return u.$router.go(-1)}}},[u._v("点击返回上一页")])])},t=[],o={},c=o,i=n(1001),l=(0,i.Z)(c,r,t,!1,null,"21e35120",null),v=l.exports}}]);
-//# sourceMappingURL=233.512064ea.js.map
